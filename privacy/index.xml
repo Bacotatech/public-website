@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Políticas de privacidad on Bacota Control Systems</title>
-    <link>http://bacota.es/privacy/</link>
+    <link>https://bacota.es/privacy/</link>
     <description>Recent content in Políticas de privacidad on Bacota Control Systems</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
-    <copyright>Copyright &amp;copy; 2020 [Bacota Control Systems](http://bacota.es)</copyright>
+    <copyright>Copyright &amp;copy; 2020 [Bacota Control Systems](https://bacota.es)</copyright>
     
-	<atom:link href="http://bacota.es/privacy/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://bacota.es/privacy/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
