@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bacota Control Systems</title>
+    <link>http://bacota.es/en/</link>
+    <description>Recent content on Bacota Control Systems</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2020 [Bacota Control Systems](http://bacota.es)</copyright>
+    <lastBuildDate>Mon, 08 Jul 2019 15:27:17 +0600</lastBuildDate>
+    
+	<atom:link href="http://bacota.es/en/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Transform your access into smart and forget about the keys</title>
+      <link>http://bacota.es/en/garage/garage-1/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      
+      <guid>http://bacota.es/en/garage/garage-1/</guid>
+      <description>Access comfortably without having to do anything, just take your mobile with you.</description>
+    </item>
+    
+    <item>
+      <title>Simplify reservations and access to common areas</title>
+      <link>http://bacota.es/en/garage/garage-2/</link>
+      <pubDate>Sun, 07 Jul 2019 15:27:17 +0600</pubDate>
+      
+      <guid>http://bacota.es/en/garage/garage-2/</guid>
+      <description>It has never been so easy to book and access a community space.</description>
+    </item>
+    
+    <item>
+      <title>Access to members easily with mobile</title>
+      <link>http://bacota.es/en/garage/garage-3/</link>
+      <pubDate>Mon, 08 Jul 2019 15:27:17 +0600</pubDate>
+      
+      <guid>http://bacota.es/en/garage/garage-3/</guid>
+      <description>It offers employees an advanced system that will allow them to enjoy an excellent user experience.</description>
+    </item>
+    
+  </channel>
+</rss>

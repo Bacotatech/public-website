@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About Us on Bacota Control Systems</title>
+    <link>http://bacota.es/en/about/</link>
+    <description>Recent content in About Us on Bacota Control Systems</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2020 [Bacota Control Systems](http://bacota.es)</copyright>
+    
+	<atom:link href="http://bacota.es/en/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
