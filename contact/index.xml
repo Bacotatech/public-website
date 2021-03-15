@@ -6,10 +6,6 @@
     <description>Recent content in Contacto on Bacota Control Systems</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
-    <copyright>Copyright &amp;copy; 2020 [Bacota Control Systems](https://bacota.es)</copyright>
-    
-	<atom:link href="https://bacota.es/contact/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>Copyright &amp;copy; 2021 [Bacota Control Systems](https://bacota.es)</copyright><atom:link href="https://bacota.es/contact/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

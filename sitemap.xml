@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-	
-	<sitemap>
-	   	<loc>https://bacota.es/es/sitemap.xml</loc>
-		
-	   	<lastmod>2019-07-08T15:27:17+06:00</lastmod>
-		
-	</sitemap>
-	
-	<sitemap>
-	   	<loc>https://bacota.es/en/sitemap.xml</loc>
-		
-	   	<lastmod>2019-07-08T15:27:17+06:00</lastmod>
-		
-	</sitemap>
-	
+  
+  <sitemap>
+    <loc>https://bacota.es/es/sitemap.xml</loc>
+    
+      <lastmod>2019-07-08T15:27:17+06:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://bacota.es/en/sitemap.xml</loc>
+    
+      <lastmod>2019-07-08T15:27:17+06:00</lastmod>
+    
+  </sitemap>
+  
 </sitemapindex>

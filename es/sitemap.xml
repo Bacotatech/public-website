@@ -120,6 +120,34 @@
   </url>
   
   <url>
+    <loc>https://bacota.es/enterprise/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://bacota.es/en/enterprise/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://bacota.es/enterprise/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://bacota.es/devices/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://bacota.es/en/devices/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://bacota.es/devices/"
+                />
+  </url>
+  
+  <url>
     <loc>https://bacota.es/privacy/</loc>
     <xhtml:link
                 rel="alternate"
